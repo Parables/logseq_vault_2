@@ -1,0 +1,47 @@
+title:: 🧠 Knowledge Base/🗒️Learning Resources
+
+- This is a collection of blogs & learning resource which I discover on the internet in my quest to do something
+-
+- ## Articles #kb #articles
+  collapsed:: true
+	- ### How To #how-to
+		- https://medium.com/@dogwith1eye/try-haskell-with-vs-code-remote-containers-77cac030dd5f
+		-
+	- ### Software Architecture #software-architecture
+		- [Exploring Event Sourcing and Related Patterns in Haskell | Ernesto Garbarino](https://garba.org/posts/2016/event-sourcing/)
+		- [Command and Query Responsibility Segregation (CQRS) Pattern | Ernesto Garbarino](https://garba.org/posts/2016/cqrs_pattern/)
+	- ### Productivity #productivity
+	- ### Performance #performance
+	- ### Security #security
+	- ### Best Practices #best-practices
+		- [Welcome to the Accessibility Developer Guide! - ADG](https://www.accessibility-developer-guide.com/)
+		- [Autosuggest widget (or: autocomplete, lookahead, typeahead) - ADG](https://www.accessibility-developer-guide.com/examples/widgets/autosuggest/)
+		- [Accessibility Matters - Home](https://www.a11ymatters.com/)
+		- [WebAIM: Introduction to Web Accessibility](https://webaim.org/intro/)
+	- ### Tips and Tricks #[[tips & tricks]]
+		- [Component Party | Compare code snippets for all the component framework libraries](https://component-party.dev/)
+		-
+	- ### Unclassified Resources
+		- https://www.hlambda.io/
+		-
+- ## Courses #kb #courses
+	- [Upcase by thoughtbot | Learn Web Development Online](https://thoughtbot.com/upcase)  #lang-haskell
+		- [Clean Code](https://thoughtbot.com/upcase/clean-code) #best-practices
+		- [Git](https://thoughtbot.com/upcase/videos/git-workflow) #tools #git
+		- [Ruby on Rails](https://thoughtbot.com/upcase/rails) #lang-ruby
+		- [Testing](https://thoughtbot.com/upcase/testing) #best-practices
+		- [iOS](https://thoughtbot.com/upcase/ios)
+		- [Haskell](https://thoughtbot.com/upcase/haskell) #lang-haskell
+		- [JavaScript](https://thoughtbot.com/upcase/javascript) #lang-js
+		- [Vim](https://thoughtbot.com/upcase/vim) #tools
+		- [tmux](https://thoughtbot.com/upcase/tmux) #tools
+		- [Design](https://thoughtbot.com/upcase/design) #best-practices
+		-
+	- https://refactoring.guru/refactoring/course  #wish-list #courses #software-architecture
+	- [Learn to Program the World's Most Bodacious Language with Clojure for the Brave and True](https://www.braveclojure.com/) #lang-clojure #wish-list
+- ## Books #kb #books
+	- [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) #lang-haskell
+	- https://refactoring.guru/design-patterns/book #best-practices
+	- [Learn to Program the World's Most Bodacious Language with Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/) #lang-clojure
+	-
+-

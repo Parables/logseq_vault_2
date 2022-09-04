@@ -1,0 +1,32 @@
+title:: 🧠 Knowledge Base/🛠️ Dev Tools
+
+- This is a collection of #dev-tools that automate certain stages in the Software Development Life cycle
+	-
+	- ## Software Automation #kb #software-automation
+		- [Automate Software Build and Testing](https://www.drone.io/) #dev-tools #software-automation #saas #testing #cd-ci
+			- Drone is a self-service Continuous Integration platform for busy development teams.
+		-
+		-
+	- ## Utilities #kb #utilities
+		- [The Search Tool for Software Developers](https://codepilot.netlify.app/) #dev-tools #utilities
+			- Search multiple sources at once and find solutions to your coding problems. Code examples, issues, questions, docs – everything at your fingertips.
+		- [Use Docker First - Learn About It Later](https://laradock.io) #dev-tools #utilities
+			- **Laradock** is a full PHP development environment for Docker.
+			- It supports a variety of common services, all pre-configured to provide a ready PHP development environment.
+		- [Modern & extendable local web development studio](https://get-deck.com/) #dev-tools #utilities
+			- DECK is powerful and high performant local web development studio unlike any other.
+			- https://github.com/deck-app #dev-tools #awesome-oss
+			- https://github.com/sfx101/deck #dev-tools #awesome-oss
+		-
+	- ## Frameworks #kb #frameworks
+		- ### Open-source JavaScript platform
+			- https://www.totaljs.com/ #dev-tools #frameworks
+			- **[Total.js Platform](https://www.totaljs.com/platform/)** offers you an excellent and stable server-side **[Node.js framework](https://www.totaljs.com/framework/)**, client-side library for creating famous web applications with more than 290 [UI components](https://www.totaljs.com/components/) for free.
+		-
+	- ## Code Generators #kb #code-gen
+	- ## Languages #kb #programming-languages
+	- ## Databases #kb #db #databases
+	- ## Awesome Open Source Projects #kb #awesome-oss
+		- ### Create beautiful, customizable toasts with Solid JS
+			- [Solid Toast](https://www.solid-toast.com/) #packages #lang-js
+			-

@@ -1,0 +1,13 @@
+- This contains a list of items I wish to have/buy sooner or later
+- ## Books & Courses
+	- https://refactoring.guru/design-patterns/book #wish-list #books #to-read #software-architecture
+	- https://refactoring.guru/refactoring/course #wish-list #courses #software-architecture
+-
+- ## Tools
+	- Ergonomic Swivel Chair
+	- Laptop
+	- Speakers
+-
+- ## Personal Needs/Wants
+	- Official and casual clothing
+	-

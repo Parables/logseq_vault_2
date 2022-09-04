@@ -1,0 +1,9 @@
+- The ONLY productivity tool you need. Never forget anything Ever
+- Features:
+	- Hover/highlight over words to get the definition, and save new words to vocabulary
+	- Automatically clip website contents using Markdown when URL is copied or opened in a new tab, save authors in contacts, so that you can reference them. Bookmark and tag websites/blogs/articles
+	- add todos from anywhere, in a website, from a terminal, from your code editor, note-taking apps like Obsidian and LogSeq
+	- generate, store and auto-fill passwords and secret information in your vault
+	- pendwn should be able to account for the time spent on reading websites/blogs
+	-
+	-

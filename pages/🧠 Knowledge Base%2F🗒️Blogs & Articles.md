@@ -1,0 +1,31 @@
+title:: 🧠 Knowledge Base/🗒️Blogs & Articles
+
+- title:: 🧠 Knowledge Base/🗒️Blogs & Articles
+- This is a collection of blogs & articles which I discover on the internet in my quest to do something
+- ## Blogs #kb #blogs
+	- [https://garba.org/tags/architecture/](https://garba.org/)
+-
+- ## Articles #kb #articles
+	- ### General
+		- [68 Top Customer Retention Statistics (2022 Data)](https://bloggingwizard.com/customer-retention-statistics/)
+	- ### How To #how-to #[[tips & tricks]]
+		- https://bloggingwizard.com/promote-your-blog-with-automation/ #automation #[[tips & tricks]]
+	- ### Alternatives To
+		- [7 Best Teachable Alternatives & Competitors (2022 Comparison)](https://bloggingwizard.com/teachable-alternatives/) #saas #e-learning #content-creation #tools
+	-
+	- ### Software Architecture #software-architecture
+		- [Exploring Event Sourcing and Related Patterns in Haskell | Ernesto Garbarino](https://garba.org/posts/2016/event-sourcing/)
+		- [Command and Query Responsibility Segregation (CQRS) Pattern | Ernesto Garbarino](https://garba.org/posts/2016/cqrs_pattern/)
+	- ### Productivity #productivity
+		- [What's this about Micro-commits?](https://www.industriallogic.com/blog/whats-this-about-micro-commits/)
+		- [What’s this about Macro-commits?. This article tries the bundle and… | by Janek Bevendorff | Medium](https://phoerious.medium.com/whats-this-about-macro-commits-b4a1aea8041c)
+		- [Use Git tactically - Stack Overflow Blog](https://stackoverflow.blog/2022/04/06/use-git-tactically/)
+		- [A Practical Guide to Micro-Commits](https://world.hey.com/niko.heikkila/a-practical-guide-to-micro-commits-a37151eb)
+		-
+	- ### Performance #performance
+	- ### Security #security
+	- ### Best Practices #best-practices
+		- [Git Commit Messages: Best Practices & Guidelines](https://initialcommit.com/blog/git-commit-messages-best-practices)
+	- ### Unclassified Resources
+		- https://www.hlambda.io/
+		-
