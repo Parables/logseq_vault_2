@@ -28,5 +28,49 @@ title:: 🧠 Knowledge Base/🛠️ Dev Tools
 	- ## Databases #kb #db #databases
 	- ## Awesome Open Source Projects #kb #awesome-oss
 		- ### Create beautiful, customizable toasts with Solid JS
-			- [Solid Toast](https://www.solid-toast.com/) #packages #lang-js
 			-
+	- ## Component Libraries #kb #ui-components
+		- [Flowbite](https://flowbite.com)
+			- Build websites even faster with components on top of Tailwind CSS
+		- [daisyUI - Tailwind CSS Components](https://daisyui.com/)
+			- The most popular, free and open-source Tailwind CSS component library
+		- [Solid Toast](https://www.solid-toast.com/)
+			- Create beautiful, customizable toasts with Solid JS
+		- [Numl Design – Atomic UI Framework for modern web interfaces](https://numl.design/)
+			- A UI Design Language, UI Library of Web Components, and Runtime CSS Framework for rapidly building interfaces that follow your Design System
+		- [Tailwind CSS Tools For Developers.](https://www.tailwind-tools.com/)
+			- A collection of tools designed for developers, to save you and your team time when building websites with Tailwind CSS.
+		- [Tailwind UI Kit - Tailwind CSS components and templates](https://tailwinduikit.com/)
+			- Build captivating experiences with accessible, fully responsive, drop-in-ready Tailwind CSS components and fast track your workflow. Get started **FREE** with **250 COMPONENTS**
+		- [Tailwind UI - Official Tailwind CSS Components & Templates](https://tailwindui.com/)\
+			- Build your next idea even faster.
+			  Beautifully designed, expertly crafted components and templates, built by the makers of Tailwind CSS. The perfect starting point for your next project.
+		- [Tailwind Elements - Bootstrap components recreated with Tailwind](https://tailwind-elements.com/)
+	- ## Hosting Providers
+		- Heroku
+		- Vercel
+		- Netlify
+		- Cloudflare
+		- Surge.sh
+		- Cyclic
+		- [MDB GO / CLI - Open source deployment tool & free hosting](https://mdbgo.com/)
+			- [MDBootstrap](https://mdbgo.com/getting-started/mdb/)
+			- [React](https://mdbgo.com/getting-started/react/)
+			- [Angular](https://mdbgo.com/getting-started/angular/)
+			- [Vue](https://mdbgo.com/getting-started/vue/)
+			- [WordPress](https://mdbgo.com/wordpress/)
+			- [Laravel](https://mdbgo.com/getting-started/laravel/)
+			- [Node.js](https://mdbgo.com/getting-started/node/)
+			- [Mongo DB](https://mdbgo.com/getting-started/mongo/)
+			- [Python](https://mdbgo.com/getting-started/python)
+			- [MySQL](https://mdbgo.com/getting-started/mysql/)
+			- [PHP](https://mdbgo.com/getting-started/php/)
+			- [Pure JavaScript](https://mdbgo.com/getting-started/javascript/)
+			- [Any static website](https://mdbgo.com/getting-started/static/)
+			- [Express](https://mdbgo.com/getting-started/express/)
+			- [SocketIO](https://mdbgo.com/getting-started/npm/)
+			- [Passport](https://mdbgo.com/getting-started/npm/)
+			- [Tailwind CSS](https://mdbgo.com/getting-started/tailwind/)
+			- [JamStack](https://mdbgo.com/getting-started/jamstack/)
+			-
+-
