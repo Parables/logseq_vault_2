@@ -19,7 +19,7 @@
 	- Videos #video-tutorials
 	- Packages #packages
 	- [[🧠 Knowledge Base/🛠️ Dev Tools]] #dev-tools
-	-
+	- [[🧠 Knowledge Base/🛠️ Conf-Talks]] #conf-talks
 	-
 	-
 	-

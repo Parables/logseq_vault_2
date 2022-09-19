@@ -151,9 +151,6 @@
  {:block/name "cool tricks",
   :block/created-at 1658901605689,
   :block/updated-at 1658901605689}
- {:block/name "copywith",
-  :block/created-at 1660752839780,
-  :block/updated-at 1660752839780}
  {:block/name "courses",
   :block/created-at 1660752840264,
   :block/updated-at 1660752840264}
@@ -235,6 +232,9 @@
  {:block/name "git",
   :block/created-at 1662190289034,
   :block/updated-at 1662190289034}
+ {:block/name "glossary",
+  :block/created-at 1662607343193,
+  :block/updated-at 1662608044598}
  {:block/name "habit",
   :block/created-at 1658955063098,
   :block/updated-at 1658955063098}
@@ -364,18 +364,9 @@
  {:block/name "logseq tips",
   :block/created-at 1658902384442,
   :block/updated-at 1658902671368}
- {:block/name "mapmaybemap",
-  :block/created-at 1660752839779,
-  :block/updated-at 1660752839779}
- {:block/name "maybewhen",
-  :block/created-at 1660752839779,
-  :block/updated-at 1660752839779}
  {:block/name "mbaas",
   :block/created-at 1662270258512,
   :block/updated-at 1662270258512}
- {:block/name "mdb logo",
-  :block/created-at 1662508915585,
-  :block/updated-at 1662508915585}
  {:block/name "mobile-app",
   :block/created-at 1658955568261,
   :block/updated-at 1658955568261}
@@ -448,6 +439,18 @@
  {:block/name "security",
   :block/created-at 1658955063420,
   :block/updated-at 1658955063420}
+ {:block/name "sep 10th, 2022",
+  :block/created-at 1662786397984,
+  :block/updated-at 1662786397984}
+ {:block/name "sep 11th, 2022",
+  :block/created-at 1662866415808,
+  :block/updated-at 1662866415808}
+ {:block/name "sep 14th, 2022",
+  :block/created-at 1663199780280,
+  :block/updated-at 1663201071642}
+ {:block/name "sep 15th, 2022",
+  :block/created-at 1663200004842,
+  :block/updated-at 1663200004842}
  {:block/name "sep 2nd, 2022",
   :block/created-at 1662188739409,
   :block/updated-at 1662188739409}
@@ -460,12 +463,15 @@
  {:block/name "sep 5th, 2022",
   :block/created-at 1662367513883,
   :block/updated-at 1662372559194}
- {:block/name "sep 6th, 2022",
-  :block/created-at 1662508606603,
-  :block/updated-at 1662508606603}
  {:block/name "sep 7th, 2022",
   :block/created-at 1662508800602,
   :block/updated-at 1662508800602}
+ {:block/name "sep 8th, 2022",
+  :block/created-at 1662607315855,
+  :block/updated-at 1662786815141}
+ {:block/name "sep 9th, 2022",
+  :block/created-at 1662750785580,
+  :block/updated-at 1662750785580}
  {:block/name "server-app",
   :block/created-at 1658955605459,
   :block/updated-at 1658955605459}
@@ -544,9 +550,6 @@
  {:block/name "whats-new",
   :block/created-at 1661780086171,
   :block/updated-at 1661780086171}
- {:block/name "when",
-  :block/created-at 1660752839780,
-  :block/updated-at 1660752839780}
  {:block/name "wired",
   :block/created-at 1658901548353,
   :block/updated-at 1658901548353}

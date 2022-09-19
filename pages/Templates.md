@@ -100,3 +100,10 @@
 		- Solution 1:
 	- Objectives: What you intend on achieving
 	- Research Notes:
+- topic:: 
+  event:: 
+  speakers:: 
+  links:: 
+  
+  template:: conf-talks
+-

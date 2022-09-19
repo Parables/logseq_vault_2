@@ -26,6 +26,12 @@ title:: 🧠 Knowledge Base/🛠️ Dev Tools
 	- ## Code Generators #kb #code-gen
 	- ## Languages #kb #programming-languages
 	- ## Databases #kb #db #databases
+		- [@databases · Query SQL Databases using Node.js and TypeScript](https://www.atdatabases.org/)
+			- @databases lets you read and write data to Postgres, MySQL, SQLite and other databases in Node.js using ordinary SQL, with parameters automatically escaped to prevent SQL injection.
+		- [GitHub - AlaSQL/alasql: AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel.](https://github.com/AlaSQL/alasql)
+			- AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel.
+		-
+			-
 	- ## Awesome Open Source Projects #kb #awesome-oss
 		- ### Create beautiful, customizable toasts with Solid JS
 			-
@@ -54,6 +60,7 @@ title:: 🧠 Knowledge Base/🛠️ Dev Tools
 		- Surge.sh
 		- Cyclic
 		- [MDB GO / CLI - Open source deployment tool & free hosting](https://mdbgo.com/)
+		  collapsed:: true
 			- [MDBootstrap](https://mdbgo.com/getting-started/mdb/)
 			- [React](https://mdbgo.com/getting-started/react/)
 			- [Angular](https://mdbgo.com/getting-started/angular/)
@@ -73,4 +80,8 @@ title:: 🧠 Knowledge Base/🛠️ Dev Tools
 			- [Tailwind CSS](https://mdbgo.com/getting-started/tailwind/)
 			- [JamStack](https://mdbgo.com/getting-started/jamstack/)
 			-
--
+		- Unclassified
+			- [VpnCloud – VpnCloud](https://vpncloud.ddswd.de/)
+			- [Truly thrifty cloud hosting - Hetzner Online GmbH](https://www.hetzner.com/cloud)
+			-
+			-
