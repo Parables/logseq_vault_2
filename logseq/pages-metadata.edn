@@ -139,6 +139,9 @@
  {:block/name "concepts",
   :block/created-at 1658901650646,
   :block/updated-at 1658901650646}
+ {:block/name "conf-talks",
+  :block/created-at 1663590736733,
+  :block/updated-at 1663590736733}
  {:block/name "content-creation",
   :block/created-at 1662188745377,
   :block/updated-at 1662188745377}
@@ -193,6 +196,9 @@
  {:block/name "established-on",
   :block/created-at 1660544638851,
   :block/updated-at 1660544638851}
+ {:block/name "event",
+  :block/created-at 1663590565725,
+  :block/updated-at 1663590565725}
  {:block/name "event driven",
   :block/created-at 1658900348040,
   :block/updated-at 1658900348040}
@@ -355,6 +361,9 @@
  {:block/name "life-cycle",
   :block/created-at 1660555799459,
   :block/updated-at 1660555799459}
+ {:block/name "links",
+  :block/created-at 1663590927140,
+  :block/updated-at 1663590927140}
  {:block/name "loan",
   :block/created-at 1658955063110,
   :block/updated-at 1658955063110}
@@ -373,6 +382,9 @@
  {:block/name "mtn-app",
   :block/created-at 1659257154158,
   :block/updated-at 1659257154158}
+ {:block/name "must-read",
+  :block/created-at 1663609620773,
+  :block/updated-at 1663609620773}
  {:block/name "now",
   :block/created-at 1658609957642,
   :block/updated-at 1658609957642}
@@ -451,6 +463,12 @@
  {:block/name "sep 15th, 2022",
   :block/created-at 1663200004842,
   :block/updated-at 1663200004842}
+ {:block/name "sep 19th, 2022",
+  :block/created-at 1663589830346,
+  :block/updated-at 1663609620774}
+ {:block/name "sep 21st, 2022",
+  :block/created-at 1663739730850,
+  :block/updated-at 1663740054286}
  {:block/name "sep 2nd, 2022",
   :block/created-at 1662188739409,
   :block/updated-at 1662188739409}
@@ -490,6 +508,9 @@
  {:block/name "source",
   :block/created-at 1658902675634,
   :block/updated-at 1658902675634}
+ {:block/name "speakers",
+  :block/created-at 1663590565729,
+  :block/updated-at 1663590565729}
  {:block/name "spy tech",
   :block/created-at 1658901629337,
   :block/updated-at 1658901629337}
@@ -502,9 +523,12 @@
  {:block/name "techxplora",
   :block/created-at 1660559601268,
   :block/updated-at 1660559601268}
+ {:block/name "template",
+  :block/created-at 1663590902821,
+  :block/updated-at 1663590902821}
  {:block/name "templates",
   :block/created-at 1658955063114,
-  :block/updated-at 1659641374012}
+  :block/updated-at 1663590927141}
  {:block/name "testing",
   :block/created-at 1660555753603,
   :block/updated-at 1660555753603}
@@ -520,6 +544,9 @@
  {:block/name "tools",
   :block/created-at 1659712502943,
   :block/updated-at 1660556486161}
+ {:block/name "topic",
+  :block/created-at 1663590565721,
+  :block/updated-at 1663590565721}
  {:block/name "type",
   :block/created-at 1658955524669,
   :block/updated-at 1658955524669}
@@ -574,6 +601,9 @@
  {:block/name "zero-day-exploit",
   :block/created-at 1659257154157,
   :block/updated-at 1659257154157}
+ {:block/name "🎦 media gallery",
+  :block/created-at 1663589860739,
+  :block/updated-at 1663590527288}
  {:block/name "🛡️ bullet-proof application",
   :block/created-at 1662269319469,
   :block/updated-at 1662278302585}
@@ -582,7 +612,7 @@
   :block/updated-at 1662269408704}
  {:block/name "🧠 knowledge base",
   :block/created-at 1660554842352,
-  :block/updated-at 1660559601269}
+  :block/updated-at 1663590736738}
  {:block/name "🧠 knowledge base/ 🪟 frameworks",
   :block/created-at 1660752840338,
   :block/updated-at 1660752840338}
@@ -604,6 +634,9 @@
  {:block/name "🧠 knowledge base/🗒️learning resources",
   :block/created-at 1661315964476,
   :block/updated-at 1662191647146}
+ {:block/name "🧠 knowledge base/🛠️ conf-talks",
+  :block/created-at 1663590736735,
+  :block/updated-at 1663590865171}
  {:block/name "🧠 knowledge base/🛠️ dev tools",
   :block/created-at 1660752840694, 
   :block/updated-at 1662272173244}]

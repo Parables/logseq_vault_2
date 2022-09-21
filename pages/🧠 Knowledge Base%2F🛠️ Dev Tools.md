@@ -5,6 +5,7 @@ title:: 🧠 Knowledge Base/🛠️ Dev Tools
 	- ## Software Automation #kb #software-automation
 		- [Automate Software Build and Testing](https://www.drone.io/) #dev-tools #software-automation #saas #testing #cd-ci
 			- Drone is a self-service Continuous Integration platform for busy development teams.
+		- https://fusionauth.io/
 		-
 		-
 	- ## Utilities #kb #utilities
