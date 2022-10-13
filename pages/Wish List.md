@@ -2,7 +2,9 @@
 - ## Books & Courses
 	- https://refactoring.guru/design-patterns/book #wish-list #books #to-read #software-architecture
 	- https://refactoring.guru/refactoring/course #wish-list #courses #software-architecture
--
+	- [Campaigner Premium Profile
+	   | 16Personalities](https://www.16personalities.com/academy/campaigner)
+	-
 - ## Tools
 	- Ergonomic Swivel Chair
 	- Laptop
