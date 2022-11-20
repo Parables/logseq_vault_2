@@ -115,6 +115,9 @@
  {:block/name "c",
   :block/created-at 1658609957642,
   :block/updated-at 1658609957642}
+ {:block/name "calendar",
+  :block/created-at 1668782597808,
+  :block/updated-at 1668782597808}
  {:block/name "canceled",
   :block/created-at 1658609957642,
   :block/updated-at 1658609957642}
@@ -142,6 +145,9 @@
  {:block/name "conf-talks",
   :block/created-at 1663590736733,
   :block/updated-at 1663590736733}
+ {:block/name "containers",
+  :block/created-at 1668779341577,
+  :block/updated-at 1668779341577}
  {:block/name "content-creation",
   :block/created-at 1662188745377,
   :block/updated-at 1662188745377}
@@ -184,15 +190,24 @@
  {:block/name "dev log",
   :block/created-at 1659563762050,
   :block/updated-at 1659563762050}
+ {:block/name "dev notes",
+  :block/created-at 1668747944805,
+  :block/updated-at 1668747944805}
  {:block/name "dev-tools",
   :block/created-at 1660556193925,
   :block/updated-at 1660556193925}
+ {:block/name "devops",
+  :block/created-at 1668779341572,
+  :block/updated-at 1668779341572}
  {:block/name "discovery-of-the-day",
   :block/created-at 1664954366591,
   :block/updated-at 1664954366591}
  {:block/name "doc-generators",
   :block/created-at 1664409539982,
   :block/updated-at 1664409539982}
+ {:block/name "docker",
+  :block/created-at 1668779341578,
+  :block/updated-at 1668779341578}
  {:block/name "doing",
   :block/created-at 1658609957643,
   :block/updated-at 1658609957643}
@@ -202,9 +217,6 @@
  {:block/name "e-learning",
   :block/created-at 1662188745378,
   :block/updated-at 1662188745378}
- {:block/name "emmanuel botchey junior",
-  :block/created-at 1660544638843,
-  :block/updated-at 1660544638843}
  {:block/name "established-on",
   :block/created-at 1660544638851,
   :block/updated-at 1660544638851}
@@ -226,6 +238,9 @@
  {:block/name "explore",
   :block/created-at 1663975655181,
   :block/updated-at 1663975655181}
+ {:block/name "failedurl",
+  :block/created-at 1668777392215,
+  :block/updated-at 1668777392215}
  {:block/name "favorites",
   :block/created-at 1658609957642,
   :block/updated-at 1658609957642}
@@ -271,6 +286,10 @@
  {:block/name "headless",
   :block/created-at 1662273307256,
   :block/updated-at 1662273307256}
+ {:block/name
+  "hls__a_handbook_of_agile_software_craftsmanship_by_robert_c_martin.pdf_(_pdfdrive_)_1667838275744_0",
+  :block/created-at 1667839802877,
+  :block/updated-at 1667844765610}
  {:block/name "hls__bdd_tutorials_point_1665600896868_0",
   :block/created-at 1665601010604,
   :block/updated-at 1665602078701}
@@ -279,7 +298,7 @@
   :block/updated-at 1665614927108}
  {:block/name "hls__clean_architecture_(_pdfdrive_)_1665615408509_0",
   :block/created-at 1665616153185,
-  :block/updated-at 1665619432220}
+  :block/updated-at 1665620116220}
  {:block/name "how-to",
   :block/created-at 1660557218546,
   :block/updated-at 1660557218546}
@@ -382,9 +401,6 @@
  {:block/name "lang-ts",
   :block/created-at 1661009739082,
   :block/updated-at 1661009739082}
- {:block/name "languages",
-  :block/created-at 1658956021474,
-  :block/updated-at 1658956021474}
  {:block/name "laravel",
   :block/created-at 1658958921230,
   :block/updated-at 1658958921230}
@@ -400,9 +416,6 @@
  {:block/name "link",
   :block/created-at 1665600765722,
   :block/updated-at 1665600765722}
- {:block/name "links",
-  :block/created-at 1663590927140,
-  :block/updated-at 1663590927140}
  {:block/name "loan",
   :block/created-at 1658955063110,
   :block/updated-at 1658955063110}
@@ -421,12 +434,39 @@
  {:block/name "mtn-app",
   :block/created-at 1659257154158,
   :block/updated-at 1659257154158}
+ {:block/name "multiple income streams",
+  :block/created-at 1668345626261,
+  :block/updated-at 1668345626261}
  {:block/name "music",
   :block/created-at 1664954366588,
   :block/updated-at 1664954366588}
+ {:block/name "must-learn",
+  :block/created-at 1667275846734,
+  :block/updated-at 1667275846734}
  {:block/name "must-read",
   :block/created-at 1663609620773,
   :block/updated-at 1663609620773}
+ {:block/name "must-watch",
+  :block/created-at 1666454613944,
+  :block/updated-at 1666454613944}
+ {:block/name "nov 12th, 2022",
+  :block/created-at 1668345626262,
+  :block/updated-at 1668345960493}
+ {:block/name "nov 18th, 2022",
+  :block/created-at 1668747840055,
+  :block/updated-at 1668783605553}
+ {:block/name "nov 1st, 2022",
+  :block/created-at 1667275803984,
+  :block/updated-at 1667277499649}
+ {:block/name "nov 6th, 2022",
+  :block/created-at 1667724574072,
+  :block/updated-at 1667781079853}
+ {:block/name "nov 7th, 2022",
+  :block/created-at 1667779202152,
+  :block/updated-at 1667845476611}
+ {:block/name "nov 8th, 2022",
+  :block/created-at 1668345626061,
+  :block/updated-at 1668345626061}
  {:block/name "now",
   :block/created-at 1658609957642,
   :block/updated-at 1658609957642}
@@ -444,25 +484,49 @@
   :block/updated-at 1665615409115}
  {:block/name "oct 13th, 2022",
   :block/created-at 1665619204784,
-  :block/updated-at 1665619204784}
+  :block/updated-at 1665625657372}
+ {:block/name "oct 15th, 2022",
+  :block/created-at 1665799814714,
+  :block/updated-at 1665942586079}
+ {:block/name "oct 17th, 2022",
+  :block/created-at 1666454613416,
+  :block/updated-at 1666454613416}
+ {:block/name "oct 18th, 2022",
+  :block/created-at 1666454613889,
+  :block/updated-at 1666454613889}
+ {:block/name "oct 19th, 2022",
+  :block/created-at 1666454613919,
+  :block/updated-at 1666454613919}
  {:block/name "oct 1st, 2022",
   :block/created-at 1664954366457,
   :block/updated-at 1664954366457}
+ {:block/name "oct 20th, 2022",
+  :block/created-at 1666454613945,
+  :block/updated-at 1666454613945}
+ {:block/name "oct 22nd, 2022",
+  :block/created-at 1666454609928,
+  :block/updated-at 1666454767968}
+ {:block/name "oct 26th, 2022",
+  :block/created-at 1666808248732,
+  :block/updated-at 1666808285268}
+ {:block/name "oct 27th, 2022",
+  :block/created-at 1667186593331,
+  :block/updated-at 1667186593331}
+ {:block/name "oct 31st, 2022",
+  :block/created-at 1667186592303,
+  :block/updated-at 1667186627796}
  {:block/name "oct 4th, 2022",
   :block/created-at 1664954366669,
   :block/updated-at 1665284027427}
  {:block/name "oct 5th, 2022",
   :block/created-at 1664954339808,
-  :block/updated-at 1664954339808}
+  :block/updated-at 1665842260514}
  {:block/name "oct 6th, 2022",
   :block/created-at 1665043335558,
   :block/updated-at 1665049115500}
  {:block/name "oct 8th, 2022",
   :block/created-at 1665257666429,
   :block/updated-at 1665261851574}
- {:block/name "oct 9th, 2022",
-  :block/created-at 1665281343334,
-  :block/updated-at 1665281343334}
  {:block/name "open api spec",
   :block/created-at 1659257153863,
   :block/updated-at 1659257153863}
@@ -472,9 +536,6 @@
  {:block/name "packages/laravel",
   :block/created-at 1658627057657,
   :block/updated-at 1658627057657}
- {:block/name "parables boltnoel",
-  :block/created-at 1660544638846,
-  :block/updated-at 1660544638846}
  {:block/name "pendwn",
   :block/created-at 1662188745051,
   :block/updated-at 1662188745051}
@@ -523,18 +584,12 @@
  {:block/name "security",
   :block/created-at 1658955063420,
   :block/updated-at 1658955063420}
- {:block/name "sep 10th, 2022",
-  :block/created-at 1662786397984,
-  :block/updated-at 1662786397984}
  {:block/name "sep 11th, 2022",
   :block/created-at 1662866415808,
   :block/updated-at 1662866415808}
  {:block/name "sep 14th, 2022",
   :block/created-at 1663199780280,
   :block/updated-at 1663201071642}
- {:block/name "sep 15th, 2022",
-  :block/created-at 1663200004842,
-  :block/updated-at 1663200004842}
  {:block/name "sep 19th, 2022",
   :block/created-at 1663589830346,
   :block/updated-at 1663609620774}
@@ -544,9 +599,6 @@
  {:block/name "sep 23rd, 2022",
   :block/created-at 1663975642964,
   :block/updated-at 1663976713612}
- {:block/name "sep 24th, 2022",
-  :block/created-at 1664008090089,
-  :block/updated-at 1664008090089}
  {:block/name "sep 26th, 2022",
   :block/created-at 1664211481170,
   :block/updated-at 1664214395791}
@@ -577,9 +629,6 @@
  {:block/name "sep 8th, 2022",
   :block/created-at 1662607315855,
   :block/updated-at 1662786815141}
- {:block/name "sep 9th, 2022",
-  :block/created-at 1662750785580,
-  :block/updated-at 1662750785580}
  {:block/name "server-app",
   :block/created-at 1658955605459,
   :block/updated-at 1658955605459}
@@ -604,9 +653,18 @@
  {:block/name "spy tech",
   :block/created-at 1658901629337,
   :block/updated-at 1658901629337}
+ {:block/name "ssh",
+  :block/created-at 1668779341576,
+  :block/updated-at 1668779341576}
  {:block/name "status",
   :block/created-at 1665600765722,
   :block/updated-at 1665600765722}
+ {:block/name "successurls",
+  :block/created-at 1668777392220,
+  :block/updated-at 1668777392220}
+ {:block/name "successurls/2",
+  :block/created-at 1668777392211,
+  :block/updated-at 1668777392211}
  {:block/name "svelte",
   :block/created-at 1661780053164,
   :block/updated-at 1661780053164}
@@ -616,9 +674,6 @@
  {:block/name "techxplora",
   :block/created-at 1660559601268,
   :block/updated-at 1660559601268}
- {:block/name "template",
-  :block/created-at 1663590902821,
-  :block/updated-at 1663590902821}
  {:block/name "templates",
   :block/created-at 1658955063114,
   :block/updated-at 1663590927141}
@@ -661,6 +716,9 @@
  {:block/name "vocabulary",
   :block/created-at 1658955063111,
   :block/updated-at 1658955063111}
+ {:block/name "vscode",
+  :block/created-at 1668779341571,
+  :block/updated-at 1668779341571}
  {:block/name "wait",
   :block/created-at 1658609957642,
   :block/updated-at 1658609957642}
@@ -702,7 +760,7 @@
   :block/updated-at 1663590527288}
  {:block/name "🛡️ bullet-proof application",
   :block/created-at 1662269319469,
-  :block/updated-at 1662278302585}
+  :block/updated-at 1667523812087}
  {:block/name "🛡️bpa",
   :block/created-at 1662269408704,
   :block/updated-at 1662269408704}

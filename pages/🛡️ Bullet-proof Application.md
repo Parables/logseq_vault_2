@@ -1,5 +1,18 @@
 tags:: #bpa #🛡️bpa
 
+- ## References:
+	- [REST APIs must be hypertext-driven » Untangled](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven) -* Roy T. Fielding*
+	- [software architecture » Untangled](https://roy.gbiv.com/untangled/category/architecture) - Roy T. Fielding
+	- [web architecture » Untangled](https://roy.gbiv.com/untangled/category/web-architecture) - Roy T. Fielding
+	- [open source » Untangled](https://roy.gbiv.com/untangled/category/opensource) - Roy T. Fielding
+	- [standards » Untangled](https://roy.gbiv.com/untangled/category/standards) - Roy T. Fielding
+	- [systems engineering » Untangled](https://roy.gbiv.com/untangled/category/systems-engineering) - Roy T. Fielding
+	- [RFC 5023 - The Atom Publishing Protocol](https://datatracker.ietf.org/doc/html/rfc5023)
+	- [Microformat - Wikipedia](https://en.wikipedia.org/wiki/Microformat)
+	- [RFC 5988 - Web Linking](https://datatracker.ietf.org/doc/html/rfc5988)
+	-
+	-
+	-
 - ## Tools used
 	- Hosting Providers
 		- Cloud ✅
